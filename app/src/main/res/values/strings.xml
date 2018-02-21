@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Live Football</string>
+    <string name="red_card">red card</string>
+    <string name="foul">foul</string>
+    <string name="goal2">Goal</string>
+    <string name="foul2">foul</string>
+    <string name="goal">Goal</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="zero">0</string>
+    <string name="reset">Reset</string>
+</resources>
